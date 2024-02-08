@@ -76,11 +76,7 @@ import com.firebase.jobdispatcher.Lifetime;
 import com.firebase.jobdispatcher.RetryStrategy;
 import com.firebase.jobdispatcher.Trigger;
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity;
-import com.sothree.slidinguppanel.SlidingUpPanelLayout;
-import com.yalantis.contextmenu.lib.ContextMenuDialogFragment;
-import com.yalantis.contextmenu.lib.MenuObject;
-import com.yalantis.contextmenu.lib.MenuParams;
-import com.yalantis.contextmenu.lib.interfaces.OnMenuItemClickListener;
+
 import com.zone.android.miskool.MapsActivity;
 import com.zone.android.miskool.R;
 import com.zone.android.miskool_Adapters.alertListAdapter;
@@ -103,7 +99,6 @@ import com.zone.android.miskool_Util.MyReceiver;
 import com.zone.android.miskool_Util.MyWorker;
 
 
-import org.ocpsoft.prettytime.PrettyTime;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -123,10 +118,7 @@ import androidx.work.Constraints;
 import androidx.work.NetworkType;
 import androidx.work.PeriodicWorkRequest;
 import androidx.work.WorkManager;
-import yalantis.com.sidemenu.interfaces.Resourceble;
-import yalantis.com.sidemenu.interfaces.ScreenShotable;
-import yalantis.com.sidemenu.model.SlideMenuItem;
-import yalantis.com.sidemenu.util.ViewAnimator;
+
 
 import static android.Manifest.permission.ACCESS_FINE_LOCATION;
 
