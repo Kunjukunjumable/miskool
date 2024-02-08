@@ -7,7 +7,6 @@
     <string name="pick_place">Choose a place</string>
     <string name="AppName">miSkool</string>
 
-    <string name="google_api_keyunres">AIzaSyDPLHkYjWjPl8dqaUEv2W_bMuSpiIGQDEw</string>
     <string name="loginbutton">login</string>
     <string name="login_user_hint">username</string>
     <string name="login_pass_hint">password</string>
