@@ -32,7 +32,6 @@ import com.zone.android.miskool_Presenter.outMailPresInterface;
 import com.zone.android.miskool_Util.Constants;
 import com.zone.android.miskool_Util.OnItemClickListener;
 
-import org.ocpsoft.prettytime.PrettyTime;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
