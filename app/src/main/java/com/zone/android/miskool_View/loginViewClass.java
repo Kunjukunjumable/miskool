@@ -41,7 +41,6 @@ import com.zone.android.miskool_Util.CallWebservice;
 import com.zone.android.miskool_Util.Constants;
 import com.zone.android.miskool_Util.Methods;
 
-import org.angmarch.views.NiceSpinner;
 import org.json.JSONObject;
 
 import java.text.ParseException;
@@ -53,10 +52,6 @@ import java.util.List;
 import java.util.UUID;
 
 
-
-/**
- * Created by Inspiron on 13-11-2017.
- */
 
 public class loginViewClass extends AppCompatActivity implements loginViewInterface {
     //declaring edittest in login module
