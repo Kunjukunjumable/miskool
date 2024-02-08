@@ -29,7 +29,6 @@ import android.widget.TimePicker;
 import android.widget.Toast;
 
 
-import com.roger.catloadinglibrary.CatLoadingView;
 
 import com.zone.android.miskool.R;
 import com.zone.android.miskool_Entitiy.Person_det;
@@ -69,7 +68,6 @@ public class loginViewClass extends AppCompatActivity implements loginViewInterf
 
     CallWebservice Callweb =        new CallWebservice();
 
-    CatLoadingView mView;
     ScrollView scrolLayout;
 
     SharedPreferences credentialPreference,loginPreference;
